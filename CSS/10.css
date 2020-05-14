@@ -1,0 +1,15 @@
+div{
+  background:#ccc;
+  width:100%;
+}
+
+img{
+  height:auto;
+  width:800px;
+  margin:auto;
+  display:block;
+  border-radius:12px;
+  box-shadow:7px 7px 0px;
+  padding:10px;
+  border:2px solid #000;
+}

@@ -1,0 +1,24 @@
+div {
+  width:100px;
+  height:100px;
+  background:#E4F632;
+  color:#2EA4FA;
+  font-size:30px;
+  float:right;
+}
+
+.caja {
+  position:static;
+  top:100px;
+  bottom:0px;
+  right:0px;
+  left:300px;
+}
+
+img{
+  float:left;
+}
+
+.clear {
+  clear:both;
+}

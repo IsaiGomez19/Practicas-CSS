@@ -1,0 +1,21 @@
+h1,h2,h3,h4,h5,h6{
+  color:red;
+}
+
+h1{
+  font-size:50px;
+}
+
+p a{
+  color:blue;
+  font-size:20px;
+}
+
+p .green{
+  color:green;
+}
+
+a[href="https://www.google.com"]{
+      color:orange;
+      font-size:30px;
+}

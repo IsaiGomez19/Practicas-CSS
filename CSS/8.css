@@ -1,0 +1,20 @@
+h1 {
+  color:#172AA2;
+  font-weight:normal;
+  text-align:center;
+  background:#7EF1A6;
+}
+
+p {
+  color:#AABAB9;
+  font-family:"Segoe UI Black";
+  font-size:20px;
+  font-weight:normal;
+  text-align:center;
+  line-height:25px;
+  text-decoration:underline;
+  text-transform:uppercase;
+  letter-spacing:2px;
+  word-spacing:4px;
+  text-shadow:1px 1px 1px #000;
+}

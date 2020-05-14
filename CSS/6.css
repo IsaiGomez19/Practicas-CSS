@@ -1,0 +1,13 @@
+body {
+  background:url(../Imagenes/b.jpg);
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-position:center;
+}
+
+div {
+  background:url(../Imagenes/c.jpg);
+  height:100px;
+  color:red;
+
+}
